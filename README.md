@@ -2,7 +2,7 @@
 
 __________________________________________________________________________________________________________________________________________________
 
-<a href="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/Favicon.png?raw=true"><img width="500" height="500" src="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/Favicon.png?raw=true">
+<a href="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/Favicon.png?raw=true"><img width="500" height="500" src="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/Favicon.png?raw=true"></a>
 
 __________________________________________________________________________________________________________________________________________________
 
