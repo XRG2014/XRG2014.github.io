@@ -3,5 +3,8 @@ title: XRG2014
 description: XRG2014 Webserver/Website (Credit for my friend) (I'm XRG2014)
 show_downloads: true
 remote_theme: pages-themes/hacker@v0.2.0
+exclude:
+  - Gemfile
+email: ""
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
