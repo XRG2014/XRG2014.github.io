@@ -1,10 +1,10 @@
 <h1 align="center"><b> Welcome to The <i>XRG2014</i> Webserver/Website &#128187; </b></h1>
 
-__________________________________________________________________________________________________________________________________________________
+___
 
 <a href="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/Favicon.png?raw=true"><img width="500" height="500" src="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/Favicon.png?raw=true"></a>
 
-__________________________________________________________________________________________________________________________________________________
+___
 
 ### **_ABOUT:_**
 
@@ -14,18 +14,21 @@ ________________________________________________________________________________
 
 > This Website Was Made Using **_Github_**
 
-_________________________________________________________________________________________________________________
+___
 
 [<img src="https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png" width="130px" height="100px"/>](https://github.com/pages-themes/hacker/tree/master/)
 
 <img src="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/IMG_2517.jpeg?raw=true" width="100px" height="100px"/>
 
->
+<br>
+
 > This Website Was Made Using **_pages-themes/hacker_** Theme
-> _________________________________________________________________________________________________________________
+
+___
 
 > This Website Was Made By **_XRG2014_** (And some credit for my friend)
-> _________________________________________________________________________________________________________________
+
+___
 
 My **_Youtube channels_**:
 
@@ -37,16 +40,20 @@ My **_Youtube channels_**:
 
 [My other tech Youtube channel I work on with my friend](https://www.youtube.com/channel/UCXJSQpw3BvrsnT6ZYvgCCGg)
 
-<b><i>Nebulatic </i></b>( An operating system my friend are working on, and it's a linux distrobution ):
+___
 
 [<img src="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/IMG_2477.jpeg?raw=true" width="100"/>](https://github.com/NebulaticOfficial/Nebulatic-OS)
+
+___
 
 Find me on <b><i>Scratch</i></b>:
 
 [Scratch](https://scratch.mit.edu/users/XRG2014/)
 
+___
+
 Friend me on <b><i>Minecraft</i></b>:
 
 	XRG2014
 
-__________________________________________________________________________________________________________________________________________________
+___
