@@ -32,9 +32,13 @@ ___
 
 My **_Youtube channels_**:
 
-[My main Youtube channel](https://www.youtube.com/channel/UCNLYKQvHtclDzZUokODLZAg)
+<details open>
+<summary><a href="https://www.youtube.com/channel/UCNLYKQvHtclDzZUokODLZAg">My main Youtube channel</a></summary>
+<br>
 
 [![Main Youtube channel trailer](https://img.youtube.com/vi/HYiFt8Y14PE/0.jpg)](https://www.youtube.com/watch?v=HYiFt8Y14PE)
+
+</details>
 
 [My tech Youtube channel I work on with my friend](https://www.youtube.com/channel/UCNdGvV63d2nWbBYMVATwLNg)
 
