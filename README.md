@@ -44,9 +44,6 @@ ___
 
 [<img src="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/IMG_2477.jpeg?raw=true" width="100"/>](https://github.com/NebulaticOfficial/Nebulatic-OS)
 
-> [!NOTE]
-> Nebulatic is an OS that I'm working on with my friend
-
 ___
 
 Find me on <b><i>Scratch</i></b>:
