@@ -13,7 +13,8 @@ ________________________________________________________________________________
 <img src="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/IMG_2517.jpeg?raw=true" width="100px" height="100px"/>
 
 > This Website Was Made Using **_Github_**
-> _________________________________________________________________________________________________________________
+
+_________________________________________________________________________________________________________________
 
 [<img src="https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png" width="130px" height="100px"/>](https://github.com/pages-themes/hacker/tree/master/)
 
