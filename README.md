@@ -36,7 +36,7 @@ My **_Youtube channels_**:
 
 [My other tech Youtube channel I work on with my friend](https://www.youtube.com/channel/UCXJSQpw3BvrsnT6ZYvgCCGg)
 
-<b><i>Nebulatic </i></b>( An operating system my friend and I are working on, and it'll be based off of windows 10 ):
+<b><i>Nebulatic </i></b>( An operating system my friend are working on, and it's a linux distrobution ):
 
 [<img src="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/IMG_2477.jpeg?raw=true" width="100"/>](https://github.com/NebulaticOfficial/Nebulatic-OS)
 
