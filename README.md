@@ -26,7 +26,7 @@ ___
 
 ___
 
-> This Website Was Made By **_XRG2014_** (And some credit for my friend)
+> This Website Was Made By **_XRG2014_**
 
 ___
 
@@ -36,7 +36,7 @@ My **_Youtube channels_**:
 <summary><a href="https://www.youtube.com/channel/UCNLYKQvHtclDzZUokODLZAg">My main Youtube channel</a></summary>
 <br>
 
-[![Main Youtube channel trailer](https://img.youtube.com/vi/HYiFt8Y14PE/0.jpg)](https://www.youtube.com/watch?v=HYiFt8Y14PE)
+<a href="https://www.youtube.com/watch?v=HYiFt8Y14PE"><img src="https://img.youtube.com/vi/HYiFt8Y14PE/0.jpg"/></a>
 
 </details>
 
