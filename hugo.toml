@@ -1,0 +1,8 @@
+baseURL = 'https://xrg2014.github.io/'
+languageCode = 'en-us'
+title = 'XRG2014 Webserver/Website'
+[params]
+  subtitle = ''
+  [params.contact]
+    email = ''
+    phone = ''
