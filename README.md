@@ -2,15 +2,15 @@
 
 ___
 
-<img width="500" height="500" src="{{ '/assets/images/Favicon.png' | relative_url }}">
+<img width="500" height="500" src="/assets/images/Favicon.png">
 
 ___
 
 ### **_ABOUT:_**
 
-<a href="https://github.com/"><img src="{{ '/assets/images/IMG_2516.jpeg' | relative_url }}" width="100px" height="100px"/></a>
+<a href="https://github.com/"><img src="/assets/images/IMG_2516.jpeg" width="100px" height="100px"/></a>
 
-<img src="{{ '/assets/images/IMG_2517.jpeg' | relative_url }}" width="100px" height="100px"/>
+<img src="/assets/images/IMG_2517.jpeg" width="100px" height="100px"/>
 
 > This Website Was Made Using **_Github_**
 
@@ -18,7 +18,7 @@ ___
 
 [<img src="https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png" width="130px" height="100px"/>](https://github.com/pages-themes/hacker/tree/master/)
 
-<img src="{{ '/assets/images/IMG_2517.jpeg' | relative_url }}" width="100px" height="100px"/>
+<img src="/assets/images/IMG_2517.jpeg" width="100px" height="100px"/>
 
 <br>
 
@@ -50,7 +50,7 @@ My **_Youtube channels_**:
 
 ___
 
-[<img src="{{ '/assets/images/IMG_2477.jpeg' | relative_url }}" width="100"/>](https://github.com/NebulaticOfficial/Nebulatic-OS)
+[<img src="/assets/images/IMG_2477.jpeg" width="100"/>](https://github.com/NebulaticOfficial/Nebulatic-OS)
 
 ___
 
