@@ -6,13 +6,11 @@ ___
 
 ___
 
-<details open>
-<summary>### **_ABOUT:_**</summary>
-<br>
+### **_ABOUT:_**
 
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/IMG_2516.jpeg?raw=true" width="100px" height="100px"/></a>
+<a href="https://github.com/"><img src="{{ '/assets/images/IMG_2516.jpeg' | relative_url }}" width="100px" height="100px"/></a>
 
-<img src="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/IMG_2517.jpeg?raw=true" width="100px" height="100px"/>
+<img src="{{ '/assets/images/IMG_2517.jpeg' | relative_url }}" width="100px" height="100px"/>
 
 > This Website Was Made Using **_Github_**
 
@@ -20,7 +18,7 @@ ___
 
 [<img src="https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png" width="130px" height="100px"/>](https://github.com/pages-themes/hacker/tree/master/)
 
-<img src="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/IMG_2517.jpeg?raw=true" width="100px" height="100px"/>
+<img src="{{ '/assets/images/IMG_2517.jpeg' | relative_url }}" width="100px" height="100px"/>
 
 <br>
 
@@ -50,7 +48,7 @@ My **_Youtube channels_**:
 
 ___
 
-[<img src="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/IMG_2477.jpeg?raw=true" width="100"/>](https://github.com/NebulaticOfficial/Nebulatic-OS)
+[<img src="{{ '/assets/images/IMG_2477.jpeg' | relative_url }}" width="100"/>](https://github.com/NebulaticOfficial/Nebulatic-OS)
 
 ___
 
