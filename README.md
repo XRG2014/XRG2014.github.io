@@ -6,9 +6,11 @@ ___
 
 ___
 
-### **_ABOUT:_**
+<details open>
+<summary>### **_ABOUT:_**</summary>
+<br>
 
-[<img src="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/IMG_2516.jpeg?raw=true" width="100px" height="100px"/>](https://github.com/)
+<a href="https://github.com/"><img src="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/IMG_2516.jpeg?raw=true" width="100px" height="100px"/></a>
 
 <img src="https://raw.githubusercontent.com/XRG2014/XRG2014.github.io/main/assets/images/IMG_2517.jpeg?raw=true" width="100px" height="100px"/>
 
@@ -32,13 +34,15 @@ ___
 
 My **_Youtube channels_**:
 
-<details open>
+<details closed>
 <summary><a href="https://www.youtube.com/channel/UCNLYKQvHtclDzZUokODLZAg">My main Youtube channel</a></summary>
 <br>
 
 <a href="https://www.youtube.com/watch?v=HYiFt8Y14PE"><img src="https://img.youtube.com/vi/HYiFt8Y14PE/0.jpg"/></a>
 
 </details>
+
+<br>
 
 [My tech Youtube channel I work on with my friend](https://www.youtube.com/channel/UCNdGvV63d2nWbBYMVATwLNg)
 
