@@ -12,6 +12,8 @@ ___
 
 <img src="{{ '/assets/images/IMG_2517.jpeg' | relative_url }}" width="100px" height="100px"/>
 
+___
+
 > This Website Was Made Using **_Github_**
 
 ___
@@ -20,7 +22,7 @@ ___
 
 <img src="{{ '/assets/images/IMG_2517.jpeg' | relative_url }}" width="100px" height="100px"/>
 
-<br>
+___
 
 > This Website Was Made Using **_pages-themes/hacker_** Theme
 
