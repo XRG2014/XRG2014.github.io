@@ -30,22 +30,16 @@
           <div class="button button5" onclick="open('{{ site.github.zip_url }}', _blank);">
             <p>Download as .zip</p>
           </div>
+          <a href="{{ site.github.tar_url }}">
+            <div class="button button5">
+              <p>Download as .tar.gz</a>
+            </div>
+          </a>
           <div class="button button5">
-            <p onclick="open('{{ site.github.tar_url }}', _blank);">Download as .tar.gz</p>
+            <a href="https://github.com/XRG2014/">XRG2014 on Github</a>
           </div>
           <div class="button button5">
-            <p onclick="open('https://github.com/XRG2014/', _blank);">XRG2014 on Github</p>
-          </div>
-          <div class="button button5">
-            <p onclick="open('{{ site.github.repository_url }}', _blank);">View on GitHub</p>
-          </div>
-          <div class="button button5">
-            <p onclick="var passwd = prompt('Password: ');
-              if (passwd = '193617') {
-                alert('Success!!!');
-              } else {
-                alert('Incorrect password'); 
-              }">Sign In</p>
+            <a href="{{ site.github.repository_url }}">View on GitHub</a>
           </div>
         </section>
         </div
