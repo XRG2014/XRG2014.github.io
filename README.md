@@ -1,4 +1,4 @@
-<h1 align="center"><b> Welcome to The <a href="{{ '/' | relative_url }}"><i>XRG2014</i></a> Webserver/Website &#128187; </b></h1>
+<h1 align="center"><b> Welcome to The <a target="_blank" href="{{ '/' | relative_url }}"><i>XRG2014</i></a> Webserver/Website &#128187; </b></h1>
 
 ___
 
@@ -8,7 +8,7 @@ ___
 
 ### **_ABOUT:_**
 
-<a href="https://github.com/"><img src="{{ '/assets/images/IMG_2516.jpeg' | relative_url }}" width="100px" height="100px"/></a>
+<a href="https://github.com/" target="_blank"><img src="{{ '/assets/images/IMG_2516.jpeg' | relative_url }}" width="100px" height="100px"/></a>
 
 <img src="{{ '/assets/images/IMG_2517.jpeg' | relative_url }}" width="100px" height="100px"/>
 
@@ -18,7 +18,7 @@ ___
 
 ___
 
-[<img src="https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png" width="130px" height="100px"/>](https://github.com/pages-themes/hacker/tree/master/)
+<a href="https://github.com/pages-themes/hacker/" target="_blank"><img src="https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png" width="130px" height="100px"/></a>
 
 <img src="{{ '/assets/images/IMG_2517.jpeg' | relative_url }}" width="100px" height="100px"/>
 
@@ -35,10 +35,10 @@ ___
 My **_Youtube channels_**:
 
 <details closed>
-<summary><a href="https://www.youtube.com/channel/UCNLYKQvHtclDzZUokODLZAg">My main Youtube channel</a></summary>
+<summary><a href="https://www.youtube.com/channel/UCNLYKQvHtclDzZUokODLZAg" target="_blank">My main Youtube channel</a></summary>
 <br>
 
-<a href="https://www.youtube.com/watch?v=HYiFt8Y14PE"><img src="https://img.youtube.com/vi/HYiFt8Y14PE/0.jpg"/></a>
+<a href="https://www.youtube.com/watch?v=HYiFt8Y14PE" target="_blank"><img src="https://img.youtube.com/vi/HYiFt8Y14PE/0.jpg"/></a>
 
 </details>
 
@@ -48,17 +48,17 @@ My **_Youtube channels_**:
 
 <br>
 
-[My other tech Youtube channel I work on with my friend](https://www.youtube.com/channel/UCXJSQpw3BvrsnT6ZYvgCCGg)
+[My other tech Youtube channel I work on with my friend]<a target="_blank" href="https://www.youtube.com/channel/UCXJSQpw3BvrsnT6ZYvgCCGg"></a>
 
 ___
 
-[<img src="{{ '/assets/images/IMG_2477.jpeg' | relative_url }}" width="100"/>](https://github.com/NebulaticOfficial/Nebulatic-OS)
+<a href="https://github.com/NebulaticOfficial/Nebulatic-OS/" target="_blank"><img src="{{ '/assets/images/IMG_2477.jpeg' | relative_url }}" width="100"/></a>
 
 ___
 
 Find me on <b><i>Scratch</i></b>:
 
-[XRG2014](https://scratch.mit.edu/users/XRG2014/)
+<a href="https://scratch.mit.edu/users/XRG2014/">XRG2014</a>
 
 ___
 
