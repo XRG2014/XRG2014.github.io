@@ -28,7 +28,7 @@
 
         <section id="downloads">
           <div class="button">
-            <a href="{{ site.github.zip_url }}">Download as .zip</a>
+            <p onclick="open('{{ site.github.zip_url }}', _blank)">Download as .zip</p>
           </div>
           <div class="button">
             <p onclick="open('{{ site.github.tar_url }}', _blank)">Download as .tar.gz</p>
@@ -40,7 +40,7 @@
             <p onclick="open('{{ site.github.repository_url }}', _blank)"><span class="icon"></span>View on GitHub</p>
           </div>
           <div class="button">
-            <p onclick="var passwd = prompt('Password: '); if (passwd = '193617') { alert('Success!!!'); } else { alert('Incorrect password'); }"
+            <p onclick="var passwd = prompt('Password: '); if (passwd = '193617') { alert('Success!!!'); } else { alert('Incorrect password'); }">Sign In</p>
           </div>
         </section>
         </div
