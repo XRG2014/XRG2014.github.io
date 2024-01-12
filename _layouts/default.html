@@ -40,7 +40,12 @@
             <p onclick="open('{{ site.github.repository_url }}', _blank)"><span class="icon"></span>View on GitHub</p>
           </div>
           <div class="button">
-            <p onclick="var passwd = prompt('Password: '); if (passwd = '193617') { alert('Success!!!'); } else { alert('Incorrect password'); }">Sign In</p>
+            <p onclick="var passwd = prompt('Password: ');
+              if (passwd = '193617') {
+                alert('Success!!!');
+              } else {
+                alert('Incorrect password'); 
+              }">Sign In</p>
           </div>
         </section>
         </div
