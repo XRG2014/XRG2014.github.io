@@ -1,4 +1,4 @@
-<h1 align="center"><b> Welcome to The <i>XRG2014</i> Webserver/Website &#128187; </b></h1>
+<h1 align="center"><b> Welcome to The <a href="{{ '/' | relative_url }}"><i>XRG2014</i></a> Webserver/Website &#128187; </b></h1>
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 Find me on <b><i>Scratch</i></b>:
 
-[Scratch](https://scratch.mit.edu/users/XRG2014/)
+[XRG2014](https://scratch.mit.edu/users/XRG2014/)
 
 ___
 
