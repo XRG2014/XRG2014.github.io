@@ -44,11 +44,11 @@ My **_Youtube channels_**:
 
 <br>
 
-[My tech Youtube channel I work on with my friend](https://www.youtube.com/channel/UCNdGvV63d2nWbBYMVATwLNg)
+<a href="https://www.youtube.com/channel/UCNdGvV63d2nWbBYMVATwLNg" target="_blank">My tech Youtube channel I work on with my friend</a>
 
 <br>
 
-[My other tech Youtube channel I work on with my friend]<a target="_blank" href="https://www.youtube.com/channel/UCXJSQpw3BvrsnT6ZYvgCCGg"></a>
+<a target="_blank" href="https://www.youtube.com/channel/UCXJSQpw3BvrsnT6ZYvgCCGg">My friend's tech Youtube channel that I work on with</a>
 
 ___
 
