@@ -4,9 +4,11 @@ ___
 
 <img width="500" height="500" src="{{ '/assets/images/Favicon.png' | relative_url }}">
 
+<div id="about">
+
 ___
 
-<div id="about"></div>
+</div>
 
 <h2><b>ABOUT:</b></h2>
 
