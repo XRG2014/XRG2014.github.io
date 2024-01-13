@@ -34,11 +34,28 @@
   cursor: pointer;
 }
 .topnav {
-  background-color: #F2F2F2;
-  color: #F2F2F2
-  border: none;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
   text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
 .button5 {font-size: 16px;}
 a:link {
   text-decoration: none;
