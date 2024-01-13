@@ -7,7 +7,7 @@ ___
 ___
 
 <div id="about">
-<h3>ABOUT:</h3>
+<h2>ABOUT:</h2>
 </div>
 
 <a href="https://github.com/" target="_blank"><img src="{{ '/assets/images/IMG_2516.jpeg' | relative_url }}" width="100px" height="100px"/></a>
