@@ -19,23 +19,18 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
 
+    <div class="topnav">
+      <a href="{{ site.github.zip_url }}" class="button1 button5" target="_blank">Download as .zip</a>
+      <a href="{{ site.github.tar_url }}" class="button1 button5" target="_blank">Download as .tar.gz</a>
+      <a href="https://github.com/XRG2014/" class="button1 button5" target="_blank">XRG2014 on Github</a>
+      <a href="{{ site.github.repository_url }}" class="button1 button5" target="_blank">View on GitHub</a>
+    </div>
     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}" target="_blank">
           <h1>{{ site.title }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-
-        <div class="topnav">
-          <a class="active" href="#home">Home</a>
-          <a href="#news">News</a>
-          <a href="#contact">Contact</a>
-          <a href="#about">About</a>
-        </div>
-        <a href="{{ site.github.zip_url }}" class="button button5" target="_blank">Download as .zip</a>
-        <a href="{{ site.github.tar_url }}" class="button button5" target="_blank">Download as .tar.gz</a>
-        <a href="https://github.com/XRG2014/" class="button button5" target="_blank">XRG2014 on Github</a>
-        <a href="{{ site.github.repository_url }}" class="button button5" target="_blank">View on GitHub</a>
         
       </div>
     </header>
