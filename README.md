@@ -39,7 +39,7 @@ ___
 My **_Youtube channels_**:
 
 <details closed>
-<summary><a class="alink" href="https://www.youtube.com/channel/UCNLYKQvHtclDzZUokODLZAg" target="_blank">My main Youtube channel</a></summary>
+<summary><a href="https://www.youtube.com/channel/UCNLYKQvHtclDzZUokODLZAg" target="_blank">My main Youtube channel</a></summary>
 <br>
 
 <a href="https://www.youtube.com/watch?v=HYiFt8Y14PE" target="_blank"><img src="https://img.youtube.com/vi/HYiFt8Y14PE/0.jpg"/></a>
@@ -48,11 +48,11 @@ My **_Youtube channels_**:
 
 <br>
 
-<a class="alink" href="https://www.youtube.com/channel/UCNdGvV63d2nWbBYMVATwLNg" target="_blank">My tech Youtube channel I work on with my friend</a>
+<a href="https://www.youtube.com/channel/UCNdGvV63d2nWbBYMVATwLNg" target="_blank">My tech Youtube channel I work on with my friend</a>
 
 <br>
 
-<a target="_blank" class="alink" href="https://www.youtube.com/channel/UCXJSQpw3BvrsnT6ZYvgCCGg">My friend's tech Youtube channel that I work on with</a>
+<a target="_blank" href="https://www.youtube.com/channel/UCXJSQpw3BvrsnT6ZYvgCCGg">My friend's tech Youtube channel that I work on with</a>
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 Find me on <b><i>Scratch</i></b>:
 
-<a href="https://scratch.mit.edu/users/XRG2014/" class="alink">XRG2014</a>
+<a href="https://scratch.mit.edu/users/XRG2014/">XRG2014</a>
 
 ___
 
