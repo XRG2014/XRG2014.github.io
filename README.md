@@ -56,10 +56,6 @@ My **_Youtube channels_**:
 
 ___
 
-<a href="https://github.com/NebulaticOfficial/Nebulatic-OS/" target="_blank"><img src="{{ '/assets/images/IMG_2477.jpeg' | relative_url }}" width="100"/></a>
-
-___
-
 Find me on <b><i>Scratch</i></b>:
 
 <a href="https://scratch.mit.edu/users/XRG2014/">XRG2014</a>
