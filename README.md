@@ -2,13 +2,13 @@
 
 ___
 
-<div id="about">
 <img width="500" height="500" src="{{ '/assets/images/Favicon.png' | relative_url }}">
-</div>
 
 ___
 
+<div id="about">
 <h2><b>ABOUT:</b></h2>
+</div>
 
 <a href="https://github.com/" target="_blank"><img src="{{ '/assets/images/IMG_2516.jpeg' | relative_url }}" width="100px" height="100px"/></a>
 
@@ -63,5 +63,3 @@ ___
 Friend me on <b><i>Minecraft</i></b>:
 
 	XRG2014
-
-___
