@@ -10,19 +10,9 @@ ___
 <h2><b>ABOUT:</b></h2>
 </div>
 
-<a href="https://github.com/" target="_blank"><img src="{{ '/assets/images/IMG_2516.jpeg' | relative_url }}" width="100px" height="100px"/></a>
-
-<img src="{{ '/assets/images/IMG_2517.jpeg' | relative_url }}" width="100px" height="100px"/>
-
 ___
 
 > This Website Was Made Using **_Github_**
-
-___
-
-<a href="https://github.com/pages-themes/hacker/" target="_blank"><img src="https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png" width="130px" height="100px"/></a>
-
-<img src="{{ '/assets/images/IMG_2517.jpeg' | relative_url }}" width="100px" height="100px"/>
 
 ___
 
