@@ -24,7 +24,7 @@ ___
 
 My **_Youtube channel_**:
 
-<details closed>
+<details open>
 <summary><a href="https://www.youtube.com/channel/UCNLYKQvHtclDzZUokODLZAg" target="_blank">My main Youtube channel</a></summary>
 <br>
 
