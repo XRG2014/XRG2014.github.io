@@ -34,7 +34,7 @@ ___
 
 ___
 
-My **_Youtube channels_**:
+My **_Youtube channel_**:
 
 <details closed>
 <summary><a href="https://www.youtube.com/channel/UCNLYKQvHtclDzZUokODLZAg" target="_blank">My main Youtube channel</a></summary>
@@ -44,22 +44,8 @@ My **_Youtube channels_**:
 
 </details>
 
-<br>
-
-<a href="https://www.youtube.com/channel/UCNdGvV63d2nWbBYMVATwLNg" target="_blank">My tech Youtube channel I work on with my friend</a>
-
-<br>
-
-<a target="_blank" href="https://www.youtube.com/channel/UCXJSQpw3BvrsnT6ZYvgCCGg">My friend's tech Youtube channel that I work on with</a>
-
 ___
 
 Find me on <b><i>Scratch</i></b>:
 
 <a href="https://scratch.mit.edu/users/XRG2014/">XRG2014</a>
-
-___
-
-Friend me on <b><i>Minecraft</i></b>:
-
-	XRG2014
