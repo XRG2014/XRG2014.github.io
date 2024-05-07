@@ -4,6 +4,8 @@ ___
 
 <img width="500" height="500" src="{{ '/assets/images/Favicon.png' | relative_url }}">
 
+___
+
 <div id="about">
 <h2><b>ABOUT:</b></h2>
 </div>
