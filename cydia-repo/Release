@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: XRG2014
+Label: XRG2014
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: The XRG2014 Jailbreak Repository
