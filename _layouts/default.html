@@ -11,11 +11,15 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     <style>
+      ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
       .head-nav {
         display: flex;
         flex-wrap: wrap;
         background-color: #333;
-        padding: 16px
       }
       .navbar {
         display: flex;
