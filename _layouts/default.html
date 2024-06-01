@@ -90,6 +90,13 @@
       .navbar-secondary {
         margin-left: auto; /* move it to the edge*/
       }
+      .navbar li:hover a:first-child:not(:last-child):after {
+        border-left-color: #fff;
+      }
+      .navbar > li:hover > a:first-child:not(:last-child):after {
+        border-left-color: transparent;
+        border-top-color: #fff;
+      }
     </style>
 
 {% seo %}
