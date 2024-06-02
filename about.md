@@ -1,4 +1,4 @@
-# About
+<h1 align="center"><b> About </b></h1>
 
 This website is XRG2014's website.
 
