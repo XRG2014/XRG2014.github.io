@@ -24,4 +24,4 @@ My **_Youtube channel_**:
 
 Find me on <b><i>Scratch</i></b>: <a href="https://scratch.mit.edu/users/XRG2014/" target="_blank">XRG2014</a>
 
-More info:
+More info: <a href="https://github.com/XRG2014" target="_blank">XRG2014</a>
