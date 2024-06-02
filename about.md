@@ -4,7 +4,7 @@ ___
 
 This website is XRG2014's website.
 
-It has XRG2014's repositories, Milkcraft (private Minecraft server), and more.
+It has XRG2014's repositories, Milkcraft (private Minecraft server), M1lk (iOS/iPadOS jailbreak repository), and more.
 
 If you would like to view XRG2014's Github profile for more information, then either click on the button above (XRG2014 on Github), or click <a href="https://github.com/XRG2014" target="_blank">here</a>
 
