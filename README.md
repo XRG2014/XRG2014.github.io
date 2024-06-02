@@ -12,18 +12,6 @@ ___
 
 ___
 
-> This Website Was Made Using **_Github_**
-
-___
-
-> This Website Was Made Using **_pages-themes/hacker_** Theme
-
-___
-
-> This Website Was Made By **_XRG2014_**
-
-___
-
 My **_Youtube channel_**:
 
 <details open>
@@ -34,8 +22,6 @@ My **_Youtube channel_**:
 
 </details>
 
-___
+Find me on <b><i>Scratch</i></b>: <a href="https://scratch.mit.edu/users/XRG2014/" target="_blank">XRG2014</a>
 
-Find me on <b><i>Scratch</i></b>:
-
-<a href="https://scratch.mit.edu/users/XRG2014/">XRG2014</a>
+More info:
