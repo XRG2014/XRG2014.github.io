@@ -93,17 +93,20 @@
         margin-left: auto; /* move it to the edge*/
       }
       .ntbsddbtn {
-        flex: 1 0 0%;
-        color: #fff;
-        text-align: center;
-        padding: 14px 16px;
+        color: #333;
+        padding: 12px 16px;
         text-decoration: none;
-        font-size: 1.1rem;
-        position: relative;
-        z-index: 11;
-        display: flex;
-        flex-direction: column;
-        position: relative;
+        text-align: left;
+        white-space: nowrap; /* force to stay on one line*/
+        position: absolute;
+        left: -100vw; /* hide off screen */
+        top: 0; /* we will animate this */
+        background-color: #a2a2a3;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 10;
+        opacity: 0;
+        transition: top 0.5s ease, opacity 0.3s ease, left 0s 0.5s;
     </style>
 
 {% seo %}
